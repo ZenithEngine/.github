@@ -55,3 +55,4 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 - [Valve Developer Community for providing information about the XenEngine/Xengine and more stuff](https://developer.valvesoftware.com/wiki/XenEngine)
 - [celisej567](https://github.com/celisej567) for some stuff
 - [Combine Sandbox](https://combine-sandbox.github.io/) for some code
+- [HL2MP AI Fixes](https://github.com/lunar0724/source-sdk-2013-multiplayer-fixes) for some AI Fixes
