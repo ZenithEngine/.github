@@ -1,4 +1,4 @@
-# Aliengine | The Xengine Recreation project
+# Zenith Engine | The Xengine Recreation project
 > Who are we?
 - We are a group of Game Developers aimed to create an open-source Source SDK which recreates Xengine by Crowbar Collective
 > Why?
@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 
 
 
-# Aliengine | Проект Xengine Recreation
+# Zenith Engine | Проект Xengine Recreation
 > Кто мы?
 - Мы - группа разработчиков игр, целью которых является создание SDK с открытым исходным кодом, воссоздающего Xengine от Crowbar Collective.
 > Почему?
