@@ -1,6 +1,6 @@
 # Zenith Engine | The Xengine Recreation project
 > Who are we?
-- We are a group of Game Developers aimed to create an open-source Source SDK which recreates Xengine by Crowbar Collective
+- We are a group of Game Developers aimed to recreate Xengine by Crowbar Collective
 > Why?
 
 https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
@@ -8,19 +8,15 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 > What if there is an issue?
 - Report any & all issues in our [Discord Server](https://discord.gg/zUFpD4WKrW)
 
-
-
-
-# Zenith Engine | Проект Xengine Recreation
-> Кто мы?
-- Мы - группа разработчиков игр, целью которых является создание SDK с открытым исходным кодом, воссоздающего Xengine от Crowbar Collective.
+#ZenithEngine | Проект Xengine Recreation
+>Кто мы?
+- Мы группа разработчиков игр, цель которой — воссоздать Xengine от Crowbar Collective.
 > Почему?
 
 https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 
 > Что делать, если возникнет проблема?
 - Сообщайте о любых проблемах на нашем [сервере Discord](https://discord.gg/zUFpD4WKrW)
-
 
 # Features
 ## Engine
