@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 > What if there is an issue?
 - Report any & all issues in our [Discord Server](https://discord.gg/zUFpD4WKrW)
 
-#ZenithEngine | Проект Xengine Recreation
+# ZenithEngine | Проект Xengine Recreation
 >Кто мы?
 - Мы группа разработчиков игр, цель которой — воссоздать Xengine от Crowbar Collective.
 > Почему?
