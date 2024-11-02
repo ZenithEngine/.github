@@ -47,6 +47,7 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 - [X] FreeBSD support
 - [X] Dynamic RTT Lighting
 - [X] Improved HDR
+- [X] PBR Shading 
 
 
 ## Credits
