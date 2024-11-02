@@ -33,22 +33,24 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 ## Visuals
 - [X] 4Way blends with support for 4 bumpmaps and tri-planar mapping, enabling all the options from other material shaders
 - [X] Cascaded Shadow Mapping with PCF-based soft shadows and viewmodel self-shadowing
-- [X] Parallax Occlusion Mapping
+- [ ] Parallax Occlusion Mapping
 - [ ] Procedural Moss
 - [X] Deferred lighting
-- [X] Dynamic RTT Lighting
-- [X] Support for up to 2K dynamic lights per scene and all rendering features on secondary render targets
+- [ ] Support for up to 2K dynamic lights per scene and all rendering features on secondary render targets
 - [ ] Screenspace Fog ("Xog"), that can be applied globally or locally using cuboid/ellipsoid volumes
 - [ ] Soft particles
 - [X] Flowing water
-- [ ] Upgraded flashlight using the new deferred lighting system
+- [X] Upgraded flashlight using the new deferred lighting system
 - [X] Swaying trees
 - [ ] Cinematic lens flares
-
+## Custom
+- [X] FreeBSD support
+- [X] Dynamic RTT Lighting
+- [X] Improved HDR
 
 
 ## Credits
-- [Valve Developer Community for providing information about the XenEngine/Xengine and more stuff](https://developer.valvesoftware.com/wiki/XenEngine)
+- [Valve Developer Community for stuff stuff](https://developer.valvesoftware.com/)
 - [celisej567](https://github.com/celisej567) for some stuff
-- [Combine Sandbox](https://combine-sandbox.github.io/) for some code
+- [Combine Sandbox](https://combine-sandbox.github.io/) for some code and the HDR Fixes
 - [HL2MP AI Fixes](https://github.com/lunar0724/source-sdk-2013-multiplayer-fixes) for some AI Fixes
