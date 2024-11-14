@@ -56,3 +56,6 @@ https://github.com/user-attachments/assets/6e0b7784-804a-4f25-9a25-04961b204a66
 - [celisej567](https://github.com/celisej567) for some stuff
 - [Combine Sandbox](https://combine-sandbox.github.io/) for some code and the HDR Fixes
 - [HL2MP AI Fixes](https://github.com/lunar0724/source-sdk-2013-multiplayer-fixes) for some AI Fixes
+
+## Mods that use Zenith Enigne
+- [Infinity Source](https://discord.gg/kTeJwJZz9f)
